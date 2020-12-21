@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-weight: 400;
+    text-decoration: blue underline wavy;
+    letter-spacing: 15px;
+    font-size: 80px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; - 
+    arrange them according to your priority order from 1 to x element*/
+    font-family: monospace;
+}
+
+p{
+    font-weight: normal;
+    line-height: 2;
+}
+
+a{
+    text-decoration: none;
+}
